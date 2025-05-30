@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "qKNG5MvdVxk=",
+  "dgSpecHash": "wpYQ7+pp7ko=",
   "success": true,
-  "projectFilePath": "C:\\Users\\HP\\OneDrive\\Tài liệu\\GitHub\\BaiTap2\\BaiTap2.csproj",
+  "projectFilePath": "C:\\Users\\HP\\OneDrive\\Tài liệu\\GitHub\\K24GD02_PML02\\BaiTap2\\BaiTap2.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\HP\\.nuget\\packages\\microsoft.dotnet.ilcompiler\\8.0.14\\microsoft.dotnet.ilcompiler.8.0.14.nupkg.sha512",
     "C:\\Users\\HP\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.14\\microsoft.net.illink.tasks.8.0.14.nupkg.sha512",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\HP\\OneDrive\\Tài liệu\\GitHub\\BaiTap2\\BaiTap2.csproj": {}
+    "C:\\Users\\HP\\OneDrive\\Tài liệu\\GitHub\\K24GD02_PML02\\BaiTap2\\BaiTap2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\HP\\OneDrive\\Tài liệu\\GitHub\\BaiTap2\\BaiTap2.csproj": {
+    "C:\\Users\\HP\\OneDrive\\Tài liệu\\GitHub\\K24GD02_PML02\\BaiTap2\\BaiTap2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\HP\\OneDrive\\Tài liệu\\GitHub\\BaiTap2\\BaiTap2.csproj",
+        "projectUniqueName": "C:\\Users\\HP\\OneDrive\\Tài liệu\\GitHub\\K24GD02_PML02\\BaiTap2\\BaiTap2.csproj",
         "projectName": "BaiTap2",
-        "projectPath": "C:\\Users\\HP\\OneDrive\\Tài liệu\\GitHub\\BaiTap2\\BaiTap2.csproj",
+        "projectPath": "C:\\Users\\HP\\OneDrive\\Tài liệu\\GitHub\\K24GD02_PML02\\BaiTap2\\BaiTap2.csproj",
         "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\HP\\OneDrive\\Tài liệu\\GitHub\\BaiTap2\\obj\\",
+        "outputPath": "C:\\Users\\HP\\OneDrive\\Tài liệu\\GitHub\\K24GD02_PML02\\BaiTap2\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

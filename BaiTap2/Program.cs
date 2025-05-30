@@ -54,8 +54,19 @@ namespace BaiTap2
             sortedList.Add("First", 1);
             sortedList.Add("key 2", 2);
             sortedList.Add("Third", "Value 3");
-            
+            sortedList.Add("third", "Value 3");
+            bool hashKey = sortedList.ContainsKey("T");
+            bool hashValue = sortedList.ContainsValue("Value 3");
+            SortedList sortedList2 = (SortedList)sortedList.Clone();
+            sortedList2.Clear();
 
+            Stack stack = new Stack();
+            stack.Push("Item01");
+            stack.Push("Item02");
+            stack.Push("Item03");
+            stack.Push("Item04");
+            stack.Push("Item05");
+            stack.Pop();
             Console.ReadLine();
         }
     }

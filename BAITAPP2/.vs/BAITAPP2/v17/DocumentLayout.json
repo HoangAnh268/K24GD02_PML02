@@ -1,10 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\HP\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\K24GD02_PML02\\BaiTap2\\",
+  "WorkspaceRootPath": "C:\\Users\\HP\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\K24GD02_PML02\\BAITAPP2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6B12AE88-CD7D-45B7-B15F-DF859BABE5A8}|BaiTap2.csproj|c:\\users\\hp\\onedrive\\ta\u0300i li\u00EA\u0323u\\github\\k24gd02_pml02\\baitap2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6B12AE88-CD7D-45B7-B15F-DF859BABE5A8}|BaiTap2.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E6FE5900-C5CB-468F-BFBB-4481A252A3A5}|BAITAPP2.csproj|c:\\users\\hp\\onedrive\\ta\u0300i li\u00EA\u0323u\\github\\k24gd02_pml02\\baitapp2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6FE5900-C5CB-468F-BFBB-4481A252A3A5}|BAITAPP2.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,13 +46,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\K24GD02_PML02\\BaiTap2\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\K24GD02_PML02\\BAITAPP2\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\HP\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\K24GD02_PML02\\BaiTap2\\Program.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\K24GD02_PML02\\BAITAPP2\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAADsAAAAAAAAAAAAAAE0AAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwAAAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-30T13:24:31.558Z",
+              "WhenOpened": "2025-05-30T13:55:27.682Z",
               "EditorCaption": ""
             }
           ]

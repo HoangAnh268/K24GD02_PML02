@@ -1,6 +1,5 @@
 ﻿using System.Collections;
-
-namespace BaiTap2
+namespace BAITAPP2
 {
     internal class Program
     {

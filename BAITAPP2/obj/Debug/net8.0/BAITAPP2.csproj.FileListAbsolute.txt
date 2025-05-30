@@ -1,0 +1,15 @@
+C:\Users\HP\OneDrive\Tài liệu\GitHub\K24GD02_PML02\BAITAPP2\obj\Debug\net8.0\BAITAPP2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive\Tài liệu\GitHub\K24GD02_PML02\BAITAPP2\obj\Debug\net8.0\BAITAPP2.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\Tài liệu\GitHub\K24GD02_PML02\BAITAPP2\obj\Debug\net8.0\BAITAPP2.AssemblyInfo.cs
+C:\Users\HP\OneDrive\Tài liệu\GitHub\K24GD02_PML02\BAITAPP2\obj\Debug\net8.0\BAITAPP2.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Tài liệu\GitHub\K24GD02_PML02\BAITAPP2\obj\Debug\net8.0\BAITAPP2.sourcelink.json
+C:\Users\HP\OneDrive\Tài liệu\GitHub\K24GD02_PML02\BAITAPP2\bin\Debug\net8.0\BAITAPP2.exe
+C:\Users\HP\OneDrive\Tài liệu\GitHub\K24GD02_PML02\BAITAPP2\bin\Debug\net8.0\BAITAPP2.deps.json
+C:\Users\HP\OneDrive\Tài liệu\GitHub\K24GD02_PML02\BAITAPP2\bin\Debug\net8.0\BAITAPP2.runtimeconfig.json
+C:\Users\HP\OneDrive\Tài liệu\GitHub\K24GD02_PML02\BAITAPP2\bin\Debug\net8.0\BAITAPP2.dll
+C:\Users\HP\OneDrive\Tài liệu\GitHub\K24GD02_PML02\BAITAPP2\bin\Debug\net8.0\BAITAPP2.pdb
+C:\Users\HP\OneDrive\Tài liệu\GitHub\K24GD02_PML02\BAITAPP2\obj\Debug\net8.0\BAITAPP2.dll
+C:\Users\HP\OneDrive\Tài liệu\GitHub\K24GD02_PML02\BAITAPP2\obj\Debug\net8.0\refint\BAITAPP2.dll
+C:\Users\HP\OneDrive\Tài liệu\GitHub\K24GD02_PML02\BAITAPP2\obj\Debug\net8.0\BAITAPP2.pdb
+C:\Users\HP\OneDrive\Tài liệu\GitHub\K24GD02_PML02\BAITAPP2\obj\Debug\net8.0\BAITAPP2.genruntimeconfig.cache
+C:\Users\HP\OneDrive\Tài liệu\GitHub\K24GD02_PML02\BAITAPP2\obj\Debug\net8.0\ref\BAITAPP2.dll

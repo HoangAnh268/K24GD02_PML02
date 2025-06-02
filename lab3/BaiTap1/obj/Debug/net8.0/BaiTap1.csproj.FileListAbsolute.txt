@@ -1,0 +1,15 @@
+C:\Users\HP\OneDrive\Tài liệu\GitHub\K24GD02_PML02\lab3\BaiTap1\bin\Debug\net8.0\BaiTap1.exe
+C:\Users\HP\OneDrive\Tài liệu\GitHub\K24GD02_PML02\lab3\BaiTap1\bin\Debug\net8.0\BaiTap1.deps.json
+C:\Users\HP\OneDrive\Tài liệu\GitHub\K24GD02_PML02\lab3\BaiTap1\bin\Debug\net8.0\BaiTap1.runtimeconfig.json
+C:\Users\HP\OneDrive\Tài liệu\GitHub\K24GD02_PML02\lab3\BaiTap1\bin\Debug\net8.0\BaiTap1.dll
+C:\Users\HP\OneDrive\Tài liệu\GitHub\K24GD02_PML02\lab3\BaiTap1\bin\Debug\net8.0\BaiTap1.pdb
+C:\Users\HP\OneDrive\Tài liệu\GitHub\K24GD02_PML02\lab3\BaiTap1\obj\Debug\net8.0\BaiTap1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive\Tài liệu\GitHub\K24GD02_PML02\lab3\BaiTap1\obj\Debug\net8.0\BaiTap1.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\Tài liệu\GitHub\K24GD02_PML02\lab3\BaiTap1\obj\Debug\net8.0\BaiTap1.AssemblyInfo.cs
+C:\Users\HP\OneDrive\Tài liệu\GitHub\K24GD02_PML02\lab3\BaiTap1\obj\Debug\net8.0\BaiTap1.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Tài liệu\GitHub\K24GD02_PML02\lab3\BaiTap1\obj\Debug\net8.0\BaiTap1.sourcelink.json
+C:\Users\HP\OneDrive\Tài liệu\GitHub\K24GD02_PML02\lab3\BaiTap1\obj\Debug\net8.0\BaiTap1.dll
+C:\Users\HP\OneDrive\Tài liệu\GitHub\K24GD02_PML02\lab3\BaiTap1\obj\Debug\net8.0\refint\BaiTap1.dll
+C:\Users\HP\OneDrive\Tài liệu\GitHub\K24GD02_PML02\lab3\BaiTap1\obj\Debug\net8.0\BaiTap1.pdb
+C:\Users\HP\OneDrive\Tài liệu\GitHub\K24GD02_PML02\lab3\BaiTap1\obj\Debug\net8.0\BaiTap1.genruntimeconfig.cache
+C:\Users\HP\OneDrive\Tài liệu\GitHub\K24GD02_PML02\lab3\BaiTap1\obj\Debug\net8.0\ref\BaiTap1.dll

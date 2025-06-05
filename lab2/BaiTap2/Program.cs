@@ -9,6 +9,7 @@ namespace BaiTap2
     {
         static void Main(string[] args)
         {
+
             Console.OutputEncoding = Encoding.UTF8;
             Dictionary<string, double> sanpham = new Dictionary<string, double>();
             sanpham.Add("Cocacola", 13000);

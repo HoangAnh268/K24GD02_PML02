@@ -1,0 +1,15 @@
+C:\Users\HP\OneDrive\Tài liệu\GitHub\K24GD02_PML02\Lab9NetWorking\bin\Debug\net8.0\Lab9NetWorking.exe
+C:\Users\HP\OneDrive\Tài liệu\GitHub\K24GD02_PML02\Lab9NetWorking\bin\Debug\net8.0\Lab9NetWorking.deps.json
+C:\Users\HP\OneDrive\Tài liệu\GitHub\K24GD02_PML02\Lab9NetWorking\bin\Debug\net8.0\Lab9NetWorking.runtimeconfig.json
+C:\Users\HP\OneDrive\Tài liệu\GitHub\K24GD02_PML02\Lab9NetWorking\bin\Debug\net8.0\Lab9NetWorking.dll
+C:\Users\HP\OneDrive\Tài liệu\GitHub\K24GD02_PML02\Lab9NetWorking\bin\Debug\net8.0\Lab9NetWorking.pdb
+C:\Users\HP\OneDrive\Tài liệu\GitHub\K24GD02_PML02\Lab9NetWorking\obj\Debug\net8.0\Lab9NetWorking.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive\Tài liệu\GitHub\K24GD02_PML02\Lab9NetWorking\obj\Debug\net8.0\Lab9NetWorking.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\Tài liệu\GitHub\K24GD02_PML02\Lab9NetWorking\obj\Debug\net8.0\Lab9NetWorking.AssemblyInfo.cs
+C:\Users\HP\OneDrive\Tài liệu\GitHub\K24GD02_PML02\Lab9NetWorking\obj\Debug\net8.0\Lab9NetWorking.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Tài liệu\GitHub\K24GD02_PML02\Lab9NetWorking\obj\Debug\net8.0\Lab9NetWorking.sourcelink.json
+C:\Users\HP\OneDrive\Tài liệu\GitHub\K24GD02_PML02\Lab9NetWorking\obj\Debug\net8.0\Lab9NetWorking.dll
+C:\Users\HP\OneDrive\Tài liệu\GitHub\K24GD02_PML02\Lab9NetWorking\obj\Debug\net8.0\refint\Lab9NetWorking.dll
+C:\Users\HP\OneDrive\Tài liệu\GitHub\K24GD02_PML02\Lab9NetWorking\obj\Debug\net8.0\Lab9NetWorking.pdb
+C:\Users\HP\OneDrive\Tài liệu\GitHub\K24GD02_PML02\Lab9NetWorking\obj\Debug\net8.0\Lab9NetWorking.genruntimeconfig.cache
+C:\Users\HP\OneDrive\Tài liệu\GitHub\K24GD02_PML02\Lab9NetWorking\obj\Debug\net8.0\ref\Lab9NetWorking.dll

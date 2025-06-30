@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "MmC0ZtJYHQ8=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\HP\\OneDrive\\Tài liệu\\GitHub\\K24GD02_PML02\\Lab9NetWorking\\Lab9NetWorking.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.dotnet.ilcompiler\\8.0.17\\microsoft.dotnet.ilcompiler.8.0.17.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.17\\microsoft.net.illink.tasks.8.0.17.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\runtime.win-x64.microsoft.dotnet.ilcompiler\\8.0.17\\runtime.win-x64.microsoft.dotnet.ilcompiler.8.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

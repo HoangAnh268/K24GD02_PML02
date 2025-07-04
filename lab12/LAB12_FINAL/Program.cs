@@ -56,12 +56,14 @@ namespace LAB12_FINAL
                 .Select(p => new { p.Name, p.IsActive, p.Level, p.LastLogin })
                 .ToList();
 
-            Console.WriteLine("Người chơi có cấp độ thấp và không hoạt động quá 10 ngày");
-            for (int i = 1; i < lowplayer.Count; i++)
+            Console.WriteLine("Người chơi có cấp độ thấp và không hoạt động quá 10 ngày");          
+            foreach (var p in lowplayer)
             {
-                await firebase.Child("inactive_lowlevel_players").PutAsync(lowplayer);
+                Console.WriteLine($"Name: {p.Name} | Active: {p.IsActive} | Level: {p.Level} | LastLogin: {p.LastLogin}");                                            
             }
+            await firebase.Child("inactive_lowlevel_players").PutAsync(lowplayer);
             
+
             var highlevelrich = player
                 .Where(p => p.Level >=12 && p.Gold > 2000)
                 .Select(p => new {p.Name, p.Gold, p.Level})

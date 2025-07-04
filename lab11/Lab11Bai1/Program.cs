@@ -20,8 +20,7 @@ namespace Lab11Bai1
         
         
         public class Player
-        {
-            public int Id;
+        {           
             public string Name {  get; set; }
             public int Level { get; set; }
             public int Gold {  get; set; }
@@ -31,8 +30,6 @@ namespace Lab11Bai1
             public string Region {  get; set; }
             public DateTime LastLogin { get; set; }
         }
-        
-
         static async Task<List<Player>> LoadPlayersAsync()
         {           
             try
@@ -42,7 +39,6 @@ namespace Lab11Bai1
             }
             catch (HttpRequestException e)
             {
-
                 Console.WriteLine($"Lỗi HTTP khi tải dữ liệu: {e.Message}");
                 return null;
             }
@@ -57,7 +53,7 @@ namespace Lab11Bai1
         {
             var firebase = new FirebaseClient(link);
             var richplayer = player
-                .Where(p => p.Gold > 1000 & p.Coins > 100)
+                .Where(p => p.Gold > 1000 && p.Coins > 100)
                 .OrderByDescending(p => p.Coins)
                 .Select(p => new {p.Name, p.Gold, p.Coins})
                 .ToList();

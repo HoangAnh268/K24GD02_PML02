@@ -48,6 +48,9 @@ namespace LAB12_FINAL
         private static readonly HttpClient client = new HttpClient();
         public static async Task Players(List<Player> player)
         {
+            int index = 0;
+            int Index = 0;
+            int indexx = 0;
             Console.WriteLine("Bài 1: Người chơi cơ bản");
             var firebase = new FirebaseClient(link);
             DateTime now = new DateTime(2025, 07, 01, 0, 0, 0, DateTimeKind.Utc);
@@ -59,9 +62,11 @@ namespace LAB12_FINAL
             Console.WriteLine("Người chơi có cấp độ thấp và không hoạt động quá 10 ngày");          
             foreach (var p in lowplayer)
             {
-                Console.WriteLine($"Name: {p.Name} | Active: {p.IsActive} | Level: {p.Level} | LastLogin: {p.LastLogin}");                                            
+                index++;
+                Console.WriteLine($"Name: {p.Name} | Active: {p.IsActive} | Level: {p.Level} | LastLogin: {p.LastLogin}");      
+                await firebase.Child("inactive_lowlevel_players").Child(index.ToString()).PutAsync(lowplayer);
             }
-            await firebase.Child("inactive_lowlevel_players").PutAsync(lowplayer);
+            
             
 
             var highlevelrich = player
@@ -70,10 +75,12 @@ namespace LAB12_FINAL
                 .ToList();
             Console.WriteLine("\nNgười chơi có cấp độ cao và giàu có:");
             foreach (var p in highlevelrich)
-            {               
-                Console.WriteLine($"Name:{p.Name} | CurrentGold:{p.Gold} | Level:{p.Level}  ");                  
+            {
+                Index++;
+                Console.WriteLine($"Name:{p.Name} | CurrentGold:{p.Gold} | Level:{p.Level}  ");    
+                await firebase.Child("highlevel_rich_players").Child(Index.ToString()).PutAsync(highlevelrich);
             }
-            await firebase.Child("highlevel_rich_players").PutAsync(highlevelrich);
+            
 
             Console.WriteLine("\nBài 2: Trao thưởng người chơi hoạt động tích cực");
             var richplayer = player
@@ -85,9 +92,11 @@ namespace LAB12_FINAL
             Console.WriteLine("Top 3 người chơi có số Goin cao nhất và đăng nhập gần đây");
             foreach (var p in richplayer)
             {
-                Console.WriteLine($"Name: {p.Name} | Level: {p.Level} | Coins: {p.Coins} | Thưởng: {p.AwardedCoinAmount}");                            
+                indexx++;
+                Console.WriteLine($"Name: {p.Name} | Level: {p.Level} | Coins: {p.Coins} | Thưởng: {p.AwardedCoinAmount}");    
+                await firebase.Child("top3_active_coin_awards").Child(indexx.ToString()).PutAsync(richplayer);
             }
-            await firebase.Child("top3_active_coin_awards").PutAsync(richplayer);
+            
 
         }
         static async Task Main(string[] args)

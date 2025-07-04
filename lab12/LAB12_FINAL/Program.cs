@@ -57,16 +57,11 @@ namespace LAB12_FINAL
                 .ToList();
 
             Console.WriteLine("Người chơi có cấp độ thấp và không hoạt động quá 10 ngày");
-            int index = 1; 
-            foreach (var p in lowplayer)
+            for (int i = 1; i < lowplayer.Count; i++)
             {
-                Console.WriteLine($"Name: {p.Name} | Active: {p.IsActive} | Level: {p.Level} | LastLogin: {p.LastLogin}");              
-                await firebase.Child("inactive_lowlevel_players").Child(index.ToString()).PutAsync(lowplayer);
-                index++;
+                await firebase.Child("inactive_lowlevel_players").PutAsync(lowplayer);
             }
             
-
-            int Index = 1;
             var highlevelrich = player
                 .Where(p => p.Level >=12 && p.Gold > 2000)
                 .Select(p => new {p.Name, p.Gold, p.Level})
@@ -74,25 +69,21 @@ namespace LAB12_FINAL
             Console.WriteLine("\nNgười chơi có cấp độ cao và giàu có:");
             foreach (var p in highlevelrich)
             {               
-                Console.WriteLine($"Name:{p.Name} | CurrentGold:{p.Gold} | Level:{p.Level}  ");   
-                await firebase.Child("highlevel_rich_players").Child(Index.ToString()).PutAsync(highlevelrich);
-                Index++; 
+                Console.WriteLine($"Name:{p.Name} | CurrentGold:{p.Gold} | Level:{p.Level}  ");                  
             }
+            await firebase.Child("highlevel_rich_players").PutAsync(highlevelrich);
 
-            
             Console.WriteLine("\nBài 2: Trao thưởng người chơi hoạt động tích cực");
             var richplayer = player
                 .Where(p => p.IsActive && p.LastLogin >= now.AddDays(-3))
                 .OrderByDescending(p => p.Coins)
                 .Take(3)
-                .Select((p, index) => new {p.Name, p.Level, p.Coins,Bonus = index == 0 ? 3000 : index == 1 ? 2000 : 1000 })
+                .Select((p, index) => new {p.Name, p.Level, p.Coins,AwardedCoinAmount = index == 0 ? 3000 : index == 1 ? 2000 : 1000 })
                 .ToList();
             Console.WriteLine("Top 3 người chơi có số Goin cao nhất và đăng nhập gần đây");
             foreach (var p in richplayer)
             {
-                Console.WriteLine($"Name: {p.Name} | Level: {p.Level} | Coins: {p.Coins} | Thưởng: {p.Bonus}");
-                
-                
+                Console.WriteLine($"Name: {p.Name} | Level: {p.Level} | Coins: {p.Coins} | Thưởng: {p.AwardedCoinAmount}");                            
             }
             await firebase.Child("top3_active_coin_awards").PutAsync(richplayer);
 

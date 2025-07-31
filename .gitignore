@@ -418,3 +418,108 @@ Assets/TextMesh Pro/Shaders/TMPro.cginc
 Assets/TextMesh Pro/Shaders/TMPro_Mobile.cginc
 Assets/TextMesh Pro/Shaders/TMPro_Surface.cginc
 Assets/TextMesh Pro/Shaders/TMPro_Properties.cginc
+ProjectSettings/URPProjectSettings.asset
+*.asset
+Assets/Prefabs/pipe.prefab
+Assets/Scenes/SampleScene.unity
+Assets/Script/BirdController.cs
+Assets/Script/GameManager.cs
+Assets/Script/MoveLeft.cs
+Assets/Script/PipeSpawner.cs
+Assets/Script/ScoreTrigger.cs
+Assets/Settings/DefaultVolumeProfile.asset
+Assets/Settings/InputSystem_Actions.inputactions
+Assets/Settings/Lit2DSceneTemplate.scenetemplate
+Assets/Settings/Renderer2D.asset
+Assets/Settings/Scenes/URP2DSceneTemplate.unity
+Assets/Settings/UniversalRenderPipelineGlobalSettings.asset
+Assets/Settings/UniversalRP.asset
+Assets/Sprites/BackGround.mat
+Assets/Sprites/Bird.anim
+Assets/Sprites/isIdelBird.anim
+Assets/Sprites/yellowbird-downflap_0.controller
+Assets/TextMesh Pro/Fonts/LiberationSans - OFL.txt
+Assets/TextMesh Pro/Fonts/LiberationSans.ttf
+Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Drop Shadow.mat
+Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Fallback.asset
+Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Outline.mat
+Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF.asset
+Assets/TextMesh Pro/Resources/LineBreaking Following Characters.txt
+Assets/TextMesh Pro/Resources/LineBreaking Leading Characters.txt
+Assets/TextMesh Pro/Resources/Sprite Assets/EmojiOne.asset
+Assets/TextMesh Pro/Resources/Style Sheets/Default Style Sheet.asset
+Assets/TextMesh Pro/Resources/TMP Settings.asset
+Assets/TextMesh Pro/Shaders/SDFFunctions.hlsl
+Assets/TextMesh Pro/Sprites/EmojiOne Attribution.txt
+lab2 flappybird/Assets/Prefabs/pipe.prefab
+lab2 flappybird/Assets/Scenes/SampleScene.unity
+lab2 flappybird/Assets/Script/BirdController.cs
+lab2 flappybird/Assets/Script/GameManager.cs
+lab2 flappybird/Assets/Script/MoveLeft.cs
+lab2 flappybird/Assets/Script/PipeSpawner.cs
+lab2 flappybird/Assets/Script/ScoreTrigger.cs
+lab2 flappybird/Assets/Settings/InputSystem_Actions.inputactions
+lab2 flappybird/Assets/Settings/Lit2DSceneTemplate.scenetemplate
+lab2 flappybird/Assets/Settings/Scenes/URP2DSceneTemplate.unity
+lab2 flappybird/Assets/Sprites/BackGround.mat
+lab2 flappybird/Assets/Sprites/Bird.anim
+lab2 flappybird/Assets/Sprites/isIdelBird.anim
+lab2 flappybird/Assets/Sprites/yellowbird-downflap_0.controller
+lab2 flappybird/Assets/TextMesh Pro/Fonts/LiberationSans - OFL.txt
+lab2 flappybird/Assets/TextMesh Pro/Fonts/LiberationSans.ttf
+lab2 flappybird/Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Drop Shadow.mat
+lab2 flappybird/Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Outline.mat
+lab2 flappybird/Assets/TextMesh Pro/Resources/LineBreaking Following Characters.txt
+lab2 flappybird/Assets/TextMesh Pro/Resources/LineBreaking Leading Characters.txt
+lab2 flappybird/Assets/TextMesh Pro/Shaders/SDFFunctions.hlsl
+lab2 flappybird/Assets/TextMesh Pro/Shaders/TMP_Bitmap-Custom-Atlas.shader
+lab2 flappybird/Assets/TextMesh Pro/Shaders/TMP_Bitmap-Mobile.shader
+lab2 flappybird/Assets/TextMesh Pro/Shaders/TMP_Bitmap.shader
+lab2 flappybird/Assets/TextMesh Pro/Shaders/TMP_SDF Overlay.shader
+lab2 flappybird/Assets/TextMesh Pro/Shaders/TMP_SDF SSD.shader
+lab2 flappybird/Assets/TextMesh Pro/Shaders/TMP_SDF-HDRP LIT.shadergraph
+lab2 flappybird/Assets/TextMesh Pro/Shaders/TMP_SDF-HDRP UNLIT.shadergraph
+lab2 flappybird/Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile Masking.shader
+lab2 flappybird/Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile Overlay.shader
+lab2 flappybird/Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile SSD.shader
+lab2 flappybird/Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile-2-Pass.shader
+lab2 flappybird/Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile.shader
+lab2 flappybird/Assets/TextMesh Pro/Shaders/TMP_SDF-Surface-Mobile.shader
+lab2 flappybird/Assets/TextMesh Pro/Shaders/TMP_SDF-Surface.shader
+lab2 flappybird/Assets/TextMesh Pro/Shaders/TMP_SDF-URP Lit.shadergraph
+lab2 flappybird/Assets/TextMesh Pro/Shaders/TMP_SDF-URP Unlit.shadergraph
+lab2 flappybird/Assets/TextMesh Pro/Shaders/TMP_SDF.shader
+lab2 flappybird/Assets/TextMesh Pro/Shaders/TMP_Sprite.shader
+lab2 flappybird/Assets/TextMesh Pro/Shaders/TMPro.cginc
+lab2 flappybird/Assets/TextMesh Pro/Shaders/TMPro_Mobile.cginc
+lab2 flappybird/Assets/TextMesh Pro/Shaders/TMPro_Properties.cginc
+lab2 flappybird/Assets/TextMesh Pro/Shaders/TMPro_Surface.cginc
+lab2 flappybird/Assets/TextMesh Pro/Sprites/EmojiOne Attribution.txt
+lab2 flappybird/Assets/TextMesh Pro/Sprites/EmojiOne.json
+lab2 flappybird/ProjectSettings/ProjectVersion.txt
+lab2 flappybird/ProjectSettings/SceneTemplateSettings.json
+ProjectSettings/AudioManager.asset
+ProjectSettings/ClusterInputManager.asset
+ProjectSettings/DynamicsManager.asset
+ProjectSettings/EditorBuildSettings.asset
+ProjectSettings/EditorSettings.asset
+ProjectSettings/GraphicsSettings.asset
+ProjectSettings/InputManager.asset
+ProjectSettings/MemorySettings.asset
+ProjectSettings/MultiplayerManager.asset
+ProjectSettings/NavMeshAreas.asset
+ProjectSettings/NetworkManager.asset
+ProjectSettings/PackageManagerSettings.asset
+ProjectSettings/Physics2DSettings.asset
+ProjectSettings/PresetManager.asset
+ProjectSettings/ProjectSettings.asset
+ProjectSettings/ProjectVersion.txt
+ProjectSettings/QualitySettings.asset
+ProjectSettings/ShaderGraphSettings.asset
+ProjectSettings/TagManager.asset
+ProjectSettings/TimeManager.asset
+ProjectSettings/UnityConnectSettings.asset
+ProjectSettings/URPProjectSettings.asset
+ProjectSettings/VersionControlSettings.asset
+ProjectSettings/VFXManager.asset
+ProjectSettings/XRSettings.asset

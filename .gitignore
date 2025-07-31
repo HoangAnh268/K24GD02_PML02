@@ -392,29 +392,3 @@ lab12/LAB12_FINAL/obj/Debug/net8.0/LAB12_FINAL.GlobalUsings.g.cs
 lab12/LAB12_FINAL/obj/Debug/net8.0/LAB12_FINAL.AssemblyInfo.cs
 lab12/LAB12_FINAL/obj/Debug/net8.0/.NETCoreApp,Version=v8.0.AssemblyAttributes.cs
 lab12/LAB12_FINAL/bin/Debug/net8.0/LAB12_FINAL.runtimeconfig.json
-ProjectSettings/SceneTemplateSettings.json
-Assets/TextMesh Pro/Sprites/EmojiOne.json
-*.png
-*.meta
-Assets/TextMesh Pro/Shaders/TMP_Bitmap-Custom-Atlas.shader
-Assets/TextMesh Pro/Shaders/TMP_Bitmap-Mobile.shader
-Assets/TextMesh Pro/Shaders/TMP_Bitmap.shader
-Assets/TextMesh Pro/Shaders/TMP_SDF Overlay.shader
-Assets/TextMesh Pro/Shaders/TMP_SDF SSD.shader
-Assets/TextMesh Pro/Shaders/TMP_SDF-HDRP LIT.shadergraph
-Assets/TextMesh Pro/Shaders/TMP_SDF-HDRP UNLIT.shadergraph
-Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile Masking.shader
-Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile Overlay.shader
-Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile SSD.shader
-Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile-2-Pass.shader
-Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile.shader
-Assets/TextMesh Pro/Shaders/TMP_SDF-Surface-Mobile.shader
-Assets/TextMesh Pro/Shaders/TMP_SDF-Surface.shader
-Assets/TextMesh Pro/Shaders/TMP_SDF-URP Lit.shadergraph
-Assets/TextMesh Pro/Shaders/TMP_SDF-URP Unlit.shadergraph
-Assets/TextMesh Pro/Shaders/TMP_SDF.shader
-Assets/TextMesh Pro/Shaders/TMP_Sprite.shader
-Assets/TextMesh Pro/Shaders/TMPro.cginc
-Assets/TextMesh Pro/Shaders/TMPro_Mobile.cginc
-Assets/TextMesh Pro/Shaders/TMPro_Surface.cginc
-Assets/TextMesh Pro/Shaders/TMPro_Properties.cginc
